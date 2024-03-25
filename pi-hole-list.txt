@@ -1,5 +1,2 @@
-elpais.es
-sport.es
-diarioinformacion.com
-elpais.com
-www.sport.es
+||elpais.com^
+||sport.es^
